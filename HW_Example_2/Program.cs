@@ -1,7 +1,7 @@
 ﻿Console.WriteLine("Программа нахождения наибольшего числа");
-Console.WriteLine("Введите первое числов");
+Console.WriteLine("Введите первое число");
 int number_1 = int.Parse(Console.ReadLine ()!);
-Console.WriteLine("Введите второе числов");
+Console.WriteLine("Введите второе число");
 int number_2 = int.Parse(Console.ReadLine ()!);
 int max = number_1;
 int min = number_1;
